@@ -1,0 +1,55 @@
+D:\New folder\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\Control-IO.exe.config
+D:\New folder\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\Control-IO.exe
+D:\New folder\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\Control-IO.pdb
+D:\New folder\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\New folder\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\Zen.Barcode.Core.dll
+D:\New folder\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\controll.io-server.csprojResolveAssemblyReference.cache
+D:\New folder\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control_IO.EvalForm_01.resources
+D:\New folder\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control_IO.FormMain_03.resources
+D:\New folder\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control_IO.FormMain_04.resources
+D:\New folder\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control_IO.FormMain_UpdatedUI.resources
+D:\New folder\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control_IO.Properties.Resources.resources
+D:\New folder\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control_IO.StartupForm_03.resources
+D:\New folder\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\controll.io-server.csproj.GenerateResource.Cache
+D:\New folder\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control-IO.exe
+D:\New folder\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control-IO.pdb
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\Control-IO.exe.config
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\Control-IO.exe
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\Control-IO.pdb
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\mscorlib.dll
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\Zen.Barcode.Core.dll
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\ru\mscorlib.resources.dll
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\normidna.nlp
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\normnfc.nlp
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\normnfd.nlp
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\normnfkc.nlp
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\normnfkd.nlp
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control_IO.EvalForm_01.resources
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control_IO.FormMain_03.resources
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control_IO.FormMain_04.resources
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control_IO.FormMain_UpdatedUI.resources
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control_IO.Properties.Resources.resources
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control_IO.StartupForm_03.resources
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\controll.io-server.csproj.GenerateResource.Cache
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control-IO.exe
+D:\Documents\Google\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control-IO.pdb
+D:\New folder\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\AForge.Video.dll
+C:\Users\grdgy\Desktop\Server_Control-IO V2.2\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\Control-IO.exe.config
+C:\Users\grdgy\Desktop\Server_Control-IO V2.2\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\Control-IO.exe
+C:\Users\grdgy\Desktop\Server_Control-IO V2.2\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\Control-IO.pdb
+C:\Users\grdgy\Desktop\Server_Control-IO V2.2\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\grdgy\Desktop\Server_Control-IO V2.2\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\grdgy\Desktop\Server_Control-IO V2.2\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\controll.io-server.csprojResolveAssemblyReference.cache
+C:\Users\grdgy\Desktop\Server_Control-IO V2.2\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control_IO.EvalForm_01.resources
+C:\Users\grdgy\Desktop\Server_Control-IO V2.2\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control_IO.FormMain_03.resources
+C:\Users\grdgy\Desktop\Server_Control-IO V2.2\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control_IO.FormMain_04.resources
+C:\Users\grdgy\Desktop\Server_Control-IO V2.2\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control_IO.FormMain_UpdatedUI.resources
+C:\Users\grdgy\Desktop\Server_Control-IO V2.2\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control_IO.Properties.Resources.resources
+C:\Users\grdgy\Desktop\Server_Control-IO V2.2\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control_IO.StartupForm_03.resources
+C:\Users\grdgy\Desktop\Server_Control-IO V2.2\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\controll.io-server.csproj.GenerateResource.Cache
+C:\Users\grdgy\Desktop\Server_Control-IO V2.2\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\controll.io-server.csproj.CoreCompileInputs.cache
+C:\Users\grdgy\Desktop\Server_Control-IO V2.2\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control-IO.exe
+C:\Users\grdgy\Desktop\Server_Control-IO V2.2\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\obj\Debug\Control-IO.pdb
+C:\Users\grdgy\Desktop\Server_Control-IO V2.2\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\NAudio.dll
+C:\Users\grdgy\Desktop\Server_Control-IO V2.2\Control.IO_server_v\Control.IO_server\Control-IO\Control-IO\bin\Debug\NAudio.xml

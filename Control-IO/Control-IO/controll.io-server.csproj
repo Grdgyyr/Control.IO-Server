@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{987AA453-D147-499D-B465-B9D53FFA1E4A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Control_IO</RootNamespace>
+    <AssemblyName>Control-IO</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Video">
+      <HintPath>..\..\..\..\..\MJPEG\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="NAudio, Version=1.8.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\NAudio.1.8.4\lib\net35\NAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Zen.Barcode.Core, Version=3.1.0.0, Culture=neutral, PublicKeyToken=b5ae55aa76d2d9de, processorArchitecture=MSIL">
+      <HintPath>..\packages\Zen.Barcode.Rendering.Framework.3.1.10729.1\lib\Zen.Barcode.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EvalForm_01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EvalForm_01.Designer.cs">
+      <DependentUpon>EvalForm_01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain_03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain_03.Designer.cs">
+      <DependentUpon>FormMain_03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain_04.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain_04.Designer.cs">
+      <DependentUpon>FormMain_04.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Misc\ComputeGesture.cs" />
+    <Compile Include="UNUSED - FormMain_UpdatedUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UNUSED - FormMain_UpdatedUI.Designer.cs">
+      <DependentUpon>UNUSED - FormMain_UpdatedUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Misc\Configuration.cs" />
+    <Compile Include="ControlIO.cs" />
+    <Compile Include="Misc\Connection_QR.cs" />
+    <Compile Include="Misc\CsvFileWriter.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Server\ComputeData.cs" />
+    <Compile Include="Server\UDPConnection.cs" />
+    <Compile Include="Server\Control_Server.cs" />
+    <Compile Include="Server\OperationData.cs" />
+    <Compile Include="StartupForm_03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartupForm_03.Designer.cs">
+      <DependentUpon>StartupForm_03.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="EvalForm_01.resx">
+      <DependentUpon>EvalForm_01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain_03.resx">
+      <DependentUpon>FormMain_03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain_04.resx">
+      <DependentUpon>FormMain_04.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UNUSED - FormMain_UpdatedUI.resx">
+      <DependentUpon>UNUSED - FormMain_UpdatedUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartupForm_03.resx">
+      <DependentUpon>StartupForm_03.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Database\" />
+    <Folder Include="Images\Icons\" />
+    <Folder Include="Keyboard\" />
+    <Folder Include="Mouse\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\Pictures\bg_00.png" />
+    <Content Include="Images\Pictures\bg_01.png" />
+    <Content Include="Settings\gesture_settings.txt" />
+    <None Include="Resources\minimize_012.png" />
+    <None Include="Resources\server-ui-front-02.png" />
+    <None Include="Resources\branding_02.png" />
+    <None Include="Resources\close_00.png" />
+    <None Include="Resources\242424.png" />
+    <Content Include="Resources\close_01.png" />
+    <None Include="Resources\white1.png" />
+    <None Include="Resources\select-mouse-1.png" />
+    <None Include="Resources\select-gesture-1.png" />
+    <None Include="Resources\select-touchpad-1.png" />
+    <None Include="Resources\server-ui-bg-021.png" />
+    <None Include="Resources\white.png" />
+    <None Include="Resources\server-ui-bg-02.png" />
+    <None Include="Resources\minimize_02.png" />
+    <None Include="Resources\server-ui-front-01.png" />
+    <None Include="Resources\qr_placeholder.png" />
+    <None Include="Resources\minimize_011.png" />
+    <None Include="Resources\close_011.png" />
+    <None Include="Resources\close_02.png" />
+    <None Include="Resources\mainform-header-1.png" />
+    <None Include="Resources\control.IO_01.png" />
+    <None Include="Resources\close_03.png" />
+    <None Include="Resources\minimize_00.png" />
+    <None Include="Resources\control.io-circle.png" />
+    <None Include="Resources\control.io-circle1.png" />
+    <None Include="Resources\control.io.png" />
+    <Content Include="Resources\minimize_01.png" />
+    <None Include="Resources\bg_00.png" />
+    <None Include="Resources\gesture_01.png" />
+    <None Include="Resources\cam_01.png" />
+    <None Include="Resources\mouse_01.png" />
+    <None Include="Resources\touchpad_01.png" />
+    <None Include="Resources\close_button_hover.png" />
+    <None Include="Resources\close_button_main.png" />
+    <None Include="Resources\title_01.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
